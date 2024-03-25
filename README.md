@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - Currently working on Autonomous Indoor Robots 🤖
-- Learning BareMetal OS development.
 - Looking to colaborate on Robotics and Computer Vision Projects.
 - You can reach me at: 📮 https://www.linkedin.com/in/gurpartapss/
 
