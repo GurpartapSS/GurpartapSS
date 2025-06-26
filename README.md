@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Embedded Software Dev
+- ML Engineer
 - Currently working on Autonomous Indoor Robots 🤖
 - Looking to colaborate on Robotics and Computer Vision Projects.
 - You can reach me at: 📮 https://www.linkedin.com/in/gurpartapss/
